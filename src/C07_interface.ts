@@ -1,4 +1,4 @@
-
+// interface 可以用來定義物件需要的屬性，或是函數中的回傳值
 interface Person {
     name: string;
     age: number;
